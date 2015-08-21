@@ -1,0 +1,17 @@
+{
+  "name": "fuel-node",
+  "version": "1.0.0",
+  "description": "Salesforce Marketing Cloud Fuel's Node.js SDK",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "BSD-3-Clause", 
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "fuelsdk-node": "^1.1.8",
+    "express": "^4.12.3",
+    "jade": "^1.9.2",
+  }
+}
