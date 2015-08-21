@@ -2,7 +2,7 @@
 
 This application allows users to utilize Salesforce Marketing Cloud's Fuel [Node.js SDK] [1]. You can learn more about the Fuel SDKs on our [code@ website] [2].
 
-And, for step-by-step instructions on creating a Salesforce Marketing Cloud ClientID and ClientSecret, visit:
+For step-by-step instructions on creating a Salesforce Marketing Cloud ClientID and ClientSecret, visit:
 [Salesforce Marketing Cloud - App Center] [3]
 
 
