@@ -12,6 +12,6 @@
   "dependencies": {
     "fuelsdk-node": "^1.1.8",
     "express": "^4.12.3",
-    "jade": "^1.9.2",
+    "jade": "^1.9.2"
   }
 }
