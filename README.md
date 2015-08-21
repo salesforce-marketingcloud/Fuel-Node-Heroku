@@ -33,7 +33,7 @@ Follow these instructions to run the application on your local machine:
 3. Open the following page in your web browser: [http://localhost:3000] [4]
 
 
-[1]: https://code.exacttarget.com/apis-sdks/fuel-sdks/
-[2]: https://github.com/salesforcefuel/FuelSDK-Node.git
+[1]: https://github.com/salesforcefuel/FuelSDK-Node.git
+[2]: https://code.exacttarget.com/apis-sdks/fuel-sdks/
 [3]: http://code.exacttarget.com/apis-sdks/rest-api/using-app-center-to-get-an-api-key.html
 [4]: http://localhost:3000
